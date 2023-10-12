@@ -30,13 +30,23 @@ I am currently a Ph.D candidate in the School of Mechanical Engineering at [Purd
 
 ---
 
-### Category Name 2
+### Conference Review
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- <strong>Conference on Human Factors in Computing Systems (CHI):</strong> 2023 Papers, 2023 Late-Breaking Work, 2022 Papers, 2021 alt.chi
+- <strong>Computer-Human Interaction in Play (CHI PLAY):</strong> 2022 Full Papers
+- <strong>Computer-Supported Cooperative Work (CSCW):</strong> 2022 January 2022
+- <strong>Designing Interactive Systems (DIS):</strong> 2022 Papers and Pictorials
+- <strong>Engineering Interactive Computing Systems Proceedings of the ACM on Human-Computer Interaction (EICS PACM):</strong> 2022 Full Papers - Round 3
+- <strong>Interaction Design and Children (IDC) Conference:</strong> 2022 Full & Short Papers
+- <strong>IEEE International Symposium on Mixed and Augmented Reality (ISMAR):</strong> 2022 Conference Papers
+- <strong>Nordic Conference on Human-Computer Interaction (NordiCHI):</strong> 2022 Papers
+
+---
+
+### Contact
+
+- Address: 585 Purdue Mall, West Lafayette, IN 47907
+- Office: Mechanical Engieering Building, Room 3164
 
 ---
 
