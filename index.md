@@ -5,7 +5,7 @@ I am currently a Ph.D candidate in the School of Mechanical Engineering at [Purd
 - <strong>Human Computer Interaction:</strong> Virtual Reality (VR); Augmented Reality (AR); Robotics; Internet of Things
 - <strong>Design and Prototyping:</strong> User Interface and Interaction Design; Embedded Systems
 - <strong>User-Centered Design:</strong> Elicitation Study; Qualitative and Quantitative Evaluation; Statistical Analysis; Usability Research
-- <strong>Instruction Design:</strong> Learning Theories, Pedagogical Reasearch, Skill Learning
+- <strong>Instruction Design:</strong> Learning Theories, Pedagogical Research, Skill Learning
 
 ### Selected Publications
 
@@ -16,7 +16,7 @@ I am currently a Ph.D candidate in the School of Mechanical Engineering at [Purd
 
 ---
 [The Design of a Virtual Prototyping System for Authoring Interactive VR Environments from Real World Scans](https://doi.org/10.1115/1.4062970)  
-<strong>Authors:</strong> Ananya Ipsita, Runlin Duan, Hao Li, Yuanzhi Cao, Min Liu, Alexander J Quinn, Karthik Ramani  
+<strong>Authors:</strong> Ananya Ipsita<sup>*</sup>, Runlin Duan<sup>*</sup>, Hao Li<sup>*</sup>, Yuanzhi Cao, Min Liu, Alexander J Quinn, Karthik Ramani (*=Equal contribution)  
 [Link to Video](https://www.youtube.com/watch?v=27egu5VkL0M)  
 <img src="images/VRFromX.jpg?raw=true"/>
 
