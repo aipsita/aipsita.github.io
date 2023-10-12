@@ -10,37 +10,33 @@ I am currently a Ph.D candidate in the School of Mechanical Engineering at [Purd
 ### Selected Publications
 
 [Towards Modeling of Virtual Reality Welding Simulators to Promote Accessible and Scalable Training](https://dl.acm.org/doi/abs/10.1145/3491102.3517696)
+<strong>Authors:</strong> Ananya Ipsita, Levi Erickson, Yangzi Dong, Joey Huang, Alexa K Bushinski, Sraven Saradhi, Ana M Villanueva, Kylie A Peppler, Thomas S Redick, Karthik Ramani
+[Link to Video](https://dl.acm.org/doi/abs/10.1145/3491102.3517696)
 <img src="images/VRWeldLearner.jpg?raw=true"/>
 
 ---
-<div style="display: flex; align-items: center;">
-  <img src="images/VRWeldLearner.jpg" style="max-width: 300px; max-height: auto; margin-right: 10px;">
-  <div>
-    <strong>Towards Modeling of Virtual Reality Welding Simulators to Promote Accessible and Scalable Training</strong>
-    <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3517696">Link to the Paper</a>
-    <strong>Authors:</strong> Ananya Ipsita, Levi Erickson, Yangzi Dong, Joey Huang, Alexa K Bushinski, Sraven Saradhi, Ana M Villanueva, Kylie A Peppler, Thomas S Redick, Karthik Ramani
-  </div>
-</div>
-
----
 [The Design of a Virtual Prototyping System for Authoring Interactive VR Environments from Real World Scans](https://doi.org/10.1115/1.4062970)
-<img src="images/VRFromX.jpg?raw=true"/>
 Authors: Ananya Ipsita, Runlin Duan, Hao Li, Yuanzhi Cao, Min Liu, Alexander J Quinn, Karthik Ramani
+[Link to Video](https://dl.acm.org/doi/abs/10.1145/3491102.3517696)
+<img src="images/VRFromX.jpg?raw=true"/>
 
 ---
 [StoryMakAR: Bringing stories to life with an augmented reality & physical prototyping toolkit for youth](https://dl.acm.org/doi/abs/10.1145/3313831.3376790)
-<img src="images/StoryMakAR.jpg?raw=true"/>
 Authors: Terrell Glenn, Ananya Ipsita, Caleb Carithers, Kylie Peppler, Karthik Ramani
+[Link to Video](https://dl.acm.org/doi/abs/10.1145/3491102.3517696)
+<img src="images/StoryMakAR.jpg?raw=true"/>
 
 ---
 [StretchAR: Exploiting Touch and Stretch as a Method of Interaction for Smart Glasses using Wearable Straps](https://dl.acm.org/doi/abs/10.1145/3550305)
-<img src="images/StretchAR.jpg?raw=true"/>
 Authors: Luis Paredes, Ananya Ipsita, Juan C Mesa, Ramses V Martinez Garrido, Karthik Ramani
+[Link to Video](https://dl.acm.org/doi/abs/10.1145/3491102.3517696)
+<img src="images/StretchAR.jpg?raw=true"/>
 
 ---
 [ImpersonatAR: Using Embodied Authoring and Evaluation to Prototype Multi-Scenario Use cases for Augmented Reality Applications.](https://doi.org/10.1115/1.4063558)
-<img src="images/ImpersonatAR.jpg?raw=true"/>
 Authors: Meng-Han Wu, Ananya Ipsita, Gaoping Huang, Karthik Ramani, Alexander J Quinn
+[Link to Video](https://dl.acm.org/doi/abs/10.1145/3491102.3517696)
+<img src="images/ImpersonatAR.jpg?raw=true"/>
 
 ---
 
