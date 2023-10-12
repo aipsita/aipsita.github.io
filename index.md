@@ -1,5 +1,5 @@
-## Portfolio
-
+## About Me
+I am currently a Ph.D candidate in the School of Mechanical Engineering at Purude University. As part of the Convergence Design Lab, I am supervised by Prof. Kartik Ramani. I received my Master's degree in Mechanical Engineering from Purdue University in 2020. I received my Bachelors degree in Electronics and Communication Engineering at NIT, Rourkela. My research focuses on the convergence of human factors, human-machine interaction design within the realm of engineering education, and psychology. I see new breakthroughs in computing technology, including Augmented Reality, Virtual Reality, robotics, and Artificial Intelligence, as promising avenues to enhance human capabilities and expertise while enriching their daily lives.
 ---
 
 ### Category Name 1 
