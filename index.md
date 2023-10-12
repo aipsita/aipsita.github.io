@@ -13,6 +13,15 @@ I am currently a Ph.D candidate in the School of Mechanical Engineering at [Purd
 <img src="images/VRWeldLearner.jpg?raw=true"/>
 
 ---
+<div style="display: flex; align-items: center;">
+  <img src="images/VRWeldLearner.jpg" style="max-width: 150px; max-height: 150px; margin-right: 10px;">
+  <div>
+    **Towards Modeling of Virtual Reality Welding Simulators to Promote Accessible and Scalable Training**
+    [Link to the Paper](https://dl.acm.org/doi/abs/10.1145/3491102.3517696)
+  </div>
+</div>
+
+---
 [The Design of a Virtual Prototyping System for Authoring Interactive VR Environments from Real World Scans](https://doi.org/10.1115/1.4062970)
 <img src="images/VRFromX.jpg?raw=true"/>
 
