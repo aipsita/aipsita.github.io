@@ -14,9 +14,9 @@ I am currently a Ph.D candidate in the School of Mechanical Engineering at [Purd
 
 ---
 <div style="display: flex; align-items: center;">
-  <img src="images/VRWeldLearner.jpg" style="max-width: 150px; max-height: 150px; margin-right: 10px;">
+  <img src="images/VRWeldLearner.jpg" style="max-width: 300px; max-height: auto; margin-right: 10px;">
   <div>
-    **Towards Modeling of Virtual Reality Welding Simulators to Promote Accessible and Scalable Training**
+    Towards Modeling of Virtual Reality Welding Simulators to Promote Accessible and Scalable Training
     [Link to the Paper](https://dl.acm.org/doi/abs/10.1145/3491102.3517696)
   </div>
 </div>
@@ -39,7 +39,7 @@ I am currently a Ph.D candidate in the School of Mechanical Engineering at [Purd
 
 ---
 
-### Conference Review
+### Conference Reviewing Experience
 
 - <strong>Conference on Human Factors in Computing Systems (CHI):</strong> 2023 Papers, 2023 Late-Breaking Work, 2022 Papers, 2021 alt.chi
 - <strong>Computer-Human Interaction in Play (CHI PLAY):</strong> 2022 Full Papers
