@@ -2,11 +2,11 @@ title: Ananya Ipsita # your name (or website title) here
 logo: "/images/AnanyaIpsita.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Ph.D. Candidate 
-  <br><br>
+  <br>
   Purdue University
-  <br><br>
+  <br>
   aipsita (at) purdue.edu
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/ananya-ipsita-81a16139">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
