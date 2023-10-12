@@ -55,8 +55,8 @@ I am currently a Ph.D candidate in the School of Mechanical Engineering at [Purd
 
 ### Contact
 
-- Address: 585 Purdue Mall, West Lafayette, IN 47907
-- Office: Mechanical Engieering Building, Room 3164
+- <strong>Address:</strong> 585 Purdue Mall, West Lafayette, IN 47907
+- <strong>Office:</strong> Mechanical Engieering Building, Room 3164
 
 ---
 
