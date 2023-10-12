@@ -30,6 +30,6 @@ I am currently a Ph.D candidate in the School of Mechanical Engineering at [Purd
 
 
 ---
-<p style="font-family: 'Crimson Pro', serif; font-size: 11px; text-align: justify">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-family: 'Crimson Pro', serif; font-size: 12px; text-align: justify">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 
 <!-- Remove above link if you don't want to attibute -->
