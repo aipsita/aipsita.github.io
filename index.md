@@ -16,7 +16,7 @@ I am currently a Ph.D candidate in the School of Mechanical Engineering at [Purd
 
 ---
 [The Design of a Virtual Prototyping System for Authoring Interactive VR Environments from Real World Scans](https://doi.org/10.1115/1.4062970)  
-<strong>Authors:</strong> Ananya Ipsita\*, Runlin Duan\*, Hao Li\*, Yuanzhi Cao, Min Liu, Alexander J Quinn, Karthik Ramani (\*=Equal contribution)  
+<strong>Authors:</strong> Ananya Ipsita \*, Runlin Duan \*, Hao Li \*, Subramanian Chidambaram, Yuanzhi Cao, Min Liu, Alex Quinn, Karthik Ramani (\*=Equal contribution)  
 [Link to Video](https://www.youtube.com/watch?v=27egu5VkL0M)  
 <img src="images/VRFromX.jpg?raw=true"/>
 
