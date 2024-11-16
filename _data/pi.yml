@@ -5,14 +5,14 @@
   github: https://github.com/aipsita
   researchgate: https://www.researchgate.net/profile/Ananya_Ipsita
   scholar: https://scholar.google.com/citations?user=8D7cYcUAAAAJ&hl=en&oi=ao
-  cv: "/papers/CV.pdf"
+  cv: /papers/CV.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
       "(2025) Ph.D., Mechanical Engineering, Purdue University",
       "(2024) Degree Certificate in Applied Statistics, Purdue University",
       "(2020) Master's in Mechanical Engineering, Purdue University",
-      "(2014) Bachelor's in Electronucs and Comm. Engg., NIT Rourkela",
+      "(2014) Bachelor's in Electronics and Comm. Engg., NIT Rourkela",
     ]
 
   educationshort:
