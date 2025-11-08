@@ -4,6 +4,7 @@
    <center>
    <a href="{{site.url}}{{site.baseurl}}/about"><img src="{{site.url}}{{site.baseurl}}/images/{{ member.photo }}" width="60%" style="block:inline; margin-left:auto; margin-right:auto; margin-bottom:5px;"/></a>
    <h4>{{ member.name }}</h4>
+   <h8>{{ member.info }}</h8>
    <div style="margin-bottom:5px">
    {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-3x"></i></a> {% endif %}
    {% if member.cv %} <a href="{{ site.url }}{{ site.baseurl }}/{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-3x"></i></a> {% endif %}
@@ -27,10 +28,17 @@
   <h4>News</h4>
 
   {% for article in site.data.news limit:3 %}
-  <b>{{ article.date }}</b>
-    <p>{{ article.headline }}</p>
+  <span><b>{{ article.date }}</b> {{ article.description }}</span><br>
   {% endfor %}
   
-  <h5><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h5>
+  <!-- <h5><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h5> -->
 
+</div>
+
+<div id="coursesid" class="jumbotron">
+  <h4>Current courses teaching in Fall 2025:</h4>
+  <ul>
+    <li>CIT 100 - Technology Foundations</li>
+    <li>EGR 591 - Engineering Independent Study</li>
+  </ul>
 </div>

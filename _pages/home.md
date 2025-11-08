@@ -7,4 +7,98 @@ permalink: /
 
 ### About me
 
-I am currently a Ph.D candidate in the School of Mechanical Engineering at [Purdue University](https://purdue.edu/). As part of the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/), I am supervised by [Prof. Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/featured-content/about/). I received my Master's degree in Mechanical Engineering from [Purdue University](https://purdue.edu/) in 2020. I received my Bachelors degree in Electronics and Communication Engineering at [NIT, Rourkela](https://www.nitrkl.ac.in/). My research focuses on the convergence of human factors, human-machine interaction design within the realm of engineering education, and industrial psychology. I see new breakthroughs in computing technology, including Augmented Reality, Virtual Reality, robotics, and Artificial Intelligence, as promising avenues to enhance human capabilities and expertise while enriching their daily lives.
+I am an **Assistant Professor of Smart Manufacturing** in the [College of Innovation & Technology](https://www.umflint.edu/cit/) at the [University of Michigan–Flint](https://www.umflint.edu/). I direct research in the *SMART Lab* where we create, design and integrate immersive, intelligent, and connected systems (XR/AI/IoT) for human-centered design, training, and digital-twin-enabled manufacturing.  
+
+I hold a Ph.D. in Mechanical Engineering and a Graduate Certificate in Applied Statistics from [Purdue University](https://www.purdue.edu/), where I was a member of the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/) advised by [Prof. Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/featured-content/about/). My thesis focused on development of *smart immersive experiences* and *AI-assisted authoring tools* that advance workforce development, creativity, and collaboration in next-generation manufacturing environments. I received my B.Tech. in Electronics and Communication Engineering from [NIT Rourkela](https://www.nitrkl.ac.in/).
+
+### Research Interests
+
+- <strong>Human Computer Interaction:</strong> Virtual Reality (VR); Augmented Reality (AR); Robotics; Internet of Things
+- <strong>Design and Prototyping:</strong> User Interface and Interaction Design; Embedded Systems
+- <strong>User-Centered Design:</strong> Elicitation Study; Qualitative and Quantitative Evaluation; Statistical Analysis; Usability Research
+- <strong>Instruction Design:</strong> Learning Theories, Pedagogical Research, Skill Learning
+
+### Selected Research Publications
+
+<div class="jumbotron">
+<div class="row" style="display: flex; align-items: flex-start;">
+<div class="col-md-4 col-sm-12" style="text-align:center;">
+<img src="/images/VRWeldLearner.jpg?raw=true" alt="VR Welding Simulator" style="max-width: 100%; height: auto; display: block; margin: 0 auto;"/>
+</div>
+<div class="col-md-8 col-sm-12">
+<h4><a href="https://dl.acm.org/doi/abs/10.1145/3491102.3517696" target="_blank">Towards Modeling of Virtual Reality Welding Simulators to Promote Accessible and Scalable Training</a></h4>
+<strong>Authors:</strong> Ananya Ipsita, Levi Erickson, Yangzi Dong, Joey Huang, Alexa K Bushinski, Sraven Saradhi, Ana M Villanueva, Kylie A Peppler, Thomas S Redick, Karthik Ramani<br>
+<a href="https://www.youtube.com/watch?v=S0WKqEfmz2Y" target="_blank">Link to Video</a><br>
+<a href="{{ site.url }}{{ site.baseurl }}/papers/WeldVRLearner.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a>
+</div>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="row" style="display: flex; align-items: flex-start;">
+<div class="col-md-4 col-sm-12" style="text-align:center;">
+<img src="/images/VRFromX.jpg?raw=true" alt="VRFromX" style="max-width: 100%; height: auto; display: block; margin: 0 auto;"/>
+</div>
+<div class="col-md-8 col-sm-12">
+<h4><a href="https://doi.org/10.1115/1.4062970" target="_blank">The Design of a Virtual Prototyping System for Authoring Interactive VR Environments from Real World Scans</a></h4>
+<strong>Authors:</strong> Ananya Ipsita *, Runlin Duan *, Hao Li *, Subramanian Chidambaram, Yuanzhi Cao, Min Liu, Alex Quinn, Karthik Ramani (*=Equal contribution)<br>
+<a href="https://www.youtube.com/watch?v=27egu5VkL0M" target="_blank">Link to Video</a><br>
+<a href="{{ site.url }}{{ site.baseurl }}/papers/VRFromX.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a>
+</div>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="row" style="display: flex; align-items: flex-start;">
+<div class="col-md-4 col-sm-12" style="text-align:center;">
+<!-- No image provided for this entry -->
+</div>
+<div class="col-md-8 col-sm-12">
+<h4><a href="https://dl.acm.org/doi/abs/10.1145/3411763.3451747" target="_blank">VRFromX: From scanned reality to interactive virtual experience with human-in-the-loop</a></h4>
+<strong>Authors:</strong> Ananya Ipsita, Hao Li, Runlin Duan, Yuanzhi Cao, Subramanian Chidambaram, Min Liu, Karthik Ramani<br>
+<a href="https://www.youtube.com/watch?v=27egu5VkL0M" target="_blank">Link to Video</a><br>
+<a href="{{ site.url }}{{ site.baseurl }}/papers/VRFromX short paper.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a>
+</div>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="row" style="display: flex; align-items: flex-start;">
+<div class="col-md-4 col-sm-12" style="text-align:center;">
+<img src="/images/FlowTrainiVR.jpg?raw=true" alt="FlowTrainiVR" style="max-width: 100%; height: auto; display: block; margin: 0 auto;"/>
+</div>
+<div class="col-md-8 col-sm-12">
+<h4><a href="https://www.sciencedirect.com/science/article/pii/S2949678024000242" target="_blank">Authoring instructional flow in iVR learning units to promote outcome-oriented learning</a></h4>
+<strong>Authors:</strong> Ananya Ipsita, Mayank Patel, Asim Unmesh, Karthik Ramani<br>
+<a href="https://www.youtube.com/watch?v=j4YVMsLBb4o&feature=youtu.be" target="_blank">Link to Video</a><br>
+<a href="{{ site.url }}{{ site.baseurl }}/papers/Instruction Authoring.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a>
+</div>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="row" style="display: flex; align-items: flex-start;">
+<div class="col-md-4 col-sm-12" style="text-align:center;">
+<img src="/images/StoryMakAR.jpg?raw=true" alt="StoryMakAR" style="max-width: 100%; height: auto; display: block; margin: 0 auto;"/>
+</div>
+<div class="col-md-8 col-sm-12">
+<h4><a href="https://dl.acm.org/doi/abs/10.1145/3313831.3376790" target="_blank">StoryMakAR: Bringing stories to life with an augmented reality & physical prototyping toolkit for youth</a></h4>
+<strong>Authors:</strong> Terrell Glenn, Ananya Ipsita, Caleb Carithers, Kylie Peppler, Karthik Ramani<br>
+<a href="https://www.youtube.com/watch?v=oP9vKjZAiog" target="_blank">Link to Video</a><br>
+<a href="{{ site.url }}{{ site.baseurl }}/papers/StoryMakAR.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a>
+</div>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="row" style="display: flex; align-items: flex-start;">
+<div class="col-md-4 col-sm-12" style="text-align:center;">
+<img src="/images/GERI workshop.jpg?raw=true" alt="GERI workshop" style="max-width: 100%; height: auto; display: block; margin: 0 auto;"/>
+</div>
+<div class="col-md-8 col-sm-12">
+<h4><a href="{{ site.url }}{{ site.baseurl }}/papers/GERI Paper.pdf" target="_blank">Adopting Backward Design into a Constructionist Curriculum Design for IoT Skill Development</a></h4>
+<strong>Authors:</strong> Ananya Ipsita, Terrell Glenn, Disha A. Bhagwat, Kylie A Peppler, Nielsen Pereira, Karthik Ramani<br>
+<a href="{{ site.url }}{{ site.baseurl }}/papers/GERI Paper.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a>
+</div>
+</div>
+</div>

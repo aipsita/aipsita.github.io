@@ -1,6 +1,6 @@
 # Site settings
 title: Ananya Ipsita
-email: aipsita@purdue.edu
+email: aipsita@umich.edu
 description: Academic webpage of Ananya Ipsita
 baseurl: ""
 url: ""
@@ -13,24 +13,22 @@ url: ""
 # Footer info
 affiliation: >
   Ananya Ipsita<br/>
-  Ph.D. Candidate<br/>
-  Purdue University
+  Assistant Professor of Smart Manufacturing<br/>
+  CIT, UM-Flint
 
 location: >
-  Mechanical Engineering Building, Room 3164<br/>
-  585 Purdue Mall<br/>
-  West Lafayette, IN 47907
+  MSB 213F<br/>
+  University of Michigan-Flint<br/>
+  303 E Kearsley St, Flint, MI 48502
 
 contact: >
-  <a href="mailto:aipsita@purdue.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Ananya via email</a> <br/>
+  <a href="mailto:aipsita@umich.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Ananya via email</a> <br/>
 
 # Pages shown in navbar
 nav_pages:
-  - name: about
   - name: research
-  - name: teaching
   - name: publications
-  - name: others
+  - name: team
 
 include:
   - .htaccess

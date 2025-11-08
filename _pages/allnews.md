@@ -9,9 +9,8 @@ permalink: /allnews.html
 
 <div class="jumbotron">
 {% for article in site.data.news %}
-<b>{{ article.date }}</b>
-
-{{ article.headline }}
+<b>{{ article.date }}</b>: <strong>{{ article.title }}</strong><br>
+{{ article.description }}<br><br>
 {% endfor %}
 
 </div>

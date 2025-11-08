@@ -11,3 +11,17 @@ $baseurl: "{{ site.url }}{{ site.baseurl }}";
 // @import "bootstrap_customization";
 @import "bootstrap";
 @import "SHB_css";
+
+.container {
+  max-width: 1400px;
+}
+
+.container-fluid {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.container-footer {
+  max-width: 1400px;
+  margin: 0 auto;
+}

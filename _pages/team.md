@@ -7,9 +7,11 @@ permalink: /team/
 
 ## Team
 
+The SMART Lab explores the intersection of immersive XR technology, AI, and human-centered design to transform how future manufacturing workplace environments learn, build, and adapt. We develop XR/IoT platforms, digital twins, and intelligent robotic systems that support personalized, hands-on experiences for real-world applications. Our mission is to empower manufacturers, educators and designers through accessible, smart technologies that scale.
+
 **We are looking for new team members** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-## PI
+## Lab Supervisor
 
 {% for member in site.data.pi %}
 
@@ -34,7 +36,7 @@ permalink: /team/
 
 {% endfor %}
 
-## Current Students and Postdocs
+## Current Students
 
 <div class='jumbotron'>
 {% assign number_printed = 0 %}
@@ -47,10 +49,10 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-2">
+<!-- <div class="col-sm-2">
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px"/>
-</div>
-<div class="col-sm-4 col-xs-12">
+</div> -->
+<div class="col-sm-6 col-xs-12">
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br></i>
 
@@ -93,12 +95,12 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-2">
+<!-- <div class="col-sm-2">
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px"/>
-</div>
-<div class="col-sm-4 col-xs-12">
+</div> -->
+<div class="col-sm-6 col-xs-12">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <!-- <i>{{ member.duration }} <br> Role: {{ member.info }}</i> -->
   <ul style="overflow: hidden">
   </ul>
 </div>
@@ -120,4 +122,4 @@ permalink: /team/
 
 ## Administrative Support
 
-<a href="exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration.
+<a>Support staff</a> is helping us (and other groups) with administration.

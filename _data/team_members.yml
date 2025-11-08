@@ -1,0 +1,7 @@
+- name: Student 1
+  degree: Masters
+- name: Student 2
+  degree: Masters
+- name: More details coming soon
+  degree: Undergraduate
+# More details coming soon.
